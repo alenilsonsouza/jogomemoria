@@ -4,6 +4,8 @@ Projeto feito no curso b7Web.
 
 Praticado por [Alenilson souza](https://alenilsonsouza.com.br).
 
+Demo: https://jogomemoria.alenilsonsouza.com.br/
+
 ## 01 - Introdução ao projeto
 Esse projeto é para prática e conhecimento em *ReactJS* com *typescript* usando o *Styled Components* para estilizações. Foi usado o CRA para a instação.
 
